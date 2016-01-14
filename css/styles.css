@@ -1,13 +1,3 @@
-.spanp {
-  background-color: green;
-  color: white;
-}
-.cssp {
-  background-color: green;
-  color: white;
-}
-
-.floatexample {
-    float: right;
-    
+.roger, .peggy, .joan, .pete {
+  display: none;
 }
